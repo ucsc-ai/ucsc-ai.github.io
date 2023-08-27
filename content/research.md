@@ -1,0 +1,13 @@
+# Research Labs
+There are several research labs that are part of the AI group:
+- [AI Explainability and Accountability (AIEA) Lab](https://aiea-lab.github.io/), lead by [Prof. Leilani Gilpin](/member/leilani/).
+- [Computer Vision Lab](https://vision.soe.ucsc.edu/), lead by [Prof. Roberto Manduchi](/member/roberto/).
+- [Embodied, Responsible Interaction and Communication (ERIC) Lab](http://eric-lab.soe.ucsc.edu/home), lead by [Prof. Xin (Eric) Wang](/member/xin).
+- [Information Retrieval & Knowledge Management (IRKM) Lab](https://irkmlab.soe.ucsc.edu/), lead by [Prof. Yi Zhang](/member/yi/). 
+- [LINQS Statistical Relational Learning Group](https://linqs.org/), lead by [Prof. Lise Getoor](/member/lise/).
+- [REsponsible & Accountable Learning (REAL) Lab](https://github.com/UCSC-REAL), lead by [Prof. Yang Liu](/member/yang).
+- [Vision Learning Assured Autonomy (VLAA) Lab](https://ucsc-vlaa.github.io/), lead by [Prof. Cihang Xie](/member/cihang/) and [Prof. Yuyin Zhou](/member/yuyin). 
+
+## Affiliated Labs and Centers
+
+More information coming soon!

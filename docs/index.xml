@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI @ UCSC</title>
+    <link>https://ucsc-ai.github.io/</link>
+    <description>Recent content on AI @ UCSC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; UCSC AI, 2023 </copyright>
+    <lastBuildDate>Sun, 27 Aug 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ucsc-ai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello world!</title>
+      <link>https://ucsc-ai.github.io/post/aloha/</link>
+      <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ucsc-ai.github.io/post/aloha/</guid>
+      <description>Hello to friends, collaborators, and propsective students. We&amp;rsquo;ve just started setting up this website and we appreciate your patience as we make changes.</description>
+    </item>
+    
+    <item>
+      <title>Explainable Autograder</title>
+      <link>https://ucsc-ai.github.io/labs/aiea/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ucsc-ai.github.io/labs/aiea/</guid>
+      <description>The goal of this project is to develop an autograder for computer sciences that can explain itself.</description>
+    </item>
+    
+    <item>
+      <title>PI</title>
+      <link>https://ucsc-ai.github.io/member/cihang/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ucsc-ai.github.io/member/cihang/</guid>
+      <description>Cihang Xie is an Assistant Professor of Computer Science and Engineering at University of California, Santa Cruz. His research interest lies at the intersection of computer vision and machine learning, with the goal of building human-level computer vision systems. He is particularly interested in securing model performance under distribution shifts, and developing deep representation learning with minimal supervision.
+He received his Ph.D. degree from Johns Hopkins University, advised by Bloomberg Distinguished Professor Alan Yuille.</description>
+    </item>
+    
+    <item>
+      <title>PI</title>
+      <link>https://ucsc-ai.github.io/member/ian/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ucsc-ai.github.io/member/ian/</guid>
+      <description>In Fall 2022, Dr. Ian Lane joined Baskin Engineering as an Associate Professor in the Computer Science and Engineering Department and the Program Director of the Natural Language Processing (NLP) Professional Master’s Degree Program. A graduate of Kyoto University, Dr. Lane has an international reputation for high impact research in NLP developing cutting-edge speech recognition, machine translation and conversational AI systems. As part of the Baskin Engineering faculty, Dr. Lane plans to extend his prior research developing new techniques, models and frameworks to allow language technologies to be effective “in the wild” and to learn and improve through real-world interaction.</description>
+    </item>
+    
+    <item>
+      <title>PI</title>
+      <link>https://ucsc-ai.github.io/member/razvan/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ucsc-ai.github.io/member/razvan/</guid>
+      <description>Razvan Marinescu is an Assistant Professor in the department of Computer Science and Engineering at UC Santa Cruz. His research focuses on Machine Learning and its applications to Healthcare and Biomolecular systems. He is also the co-founder and CTO of a drug screening start-up, GiwoTech Inc.
+During his PostDoc in Polina Golland’s lab at MIT, he worked on machine learning algorithms for healthcare applications. He developed generative models for natural images, Chest X-Rays and brain images, which can be used as prior models for image reconstruction tasks, using bayesian posterior optimisation.</description>
+    </item>
+    
+    <item>
+      <title>PI</title>
+      <link>https://ucsc-ai.github.io/member/yuyin/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ucsc-ai.github.io/member/yuyin/</guid>
+      <description>Yuyin Zhou is currently an Assistant Professor of Computer Science and Engineering at University of California, Santa Cruz. Before that, she was a Postdoctoral Fellow at Stanford University, working closely with Prof. Lei Xing and Prof. Matthew Lungren. She received her Ph.D. degree in Computer Science at Johns Hopkins University, under the supervision of Bloomberg Distinguished Professor Alan Yuille. She received her B.S. degree from Huazhong University of Science and Technology, and M.</description>
+    </item>
+    
+    <item>
+      <title>PI</title>
+      <link>https://ucsc-ai.github.io/member/jeff/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ucsc-ai.github.io/member/jeff/</guid>
+      <description>Jeffrey Flanigan is an Assistant Professor in the Jack Baskin School of Engineering at UC Santa Cruz.
+Jeffrey Flanigan&amp;rsquo;s research lies in the areas of natural language processing, structured prediction, and deep learning. His work focuses on enabling computers to understand and generate natural language better (semantic parsing and generation) and to help people who speak different languages communicate (machine translation).</description>
+    </item>
+    
+    <item>
+      <title>PI</title>
+      <link>https://ucsc-ai.github.io/member/leilani/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ucsc-ai.github.io/member/leilani/</guid>
+      <description>Leilani H. Gilpin is an Assistant Professor in the Department of Computer Science and Engineering at UC Santa Cruz. Her research focuses on the design and analysis of methods for autonomous systems to explain themselves. Her work has applications to robust decision-making, system debugging, and accountability. Her current work examines how generative models can be used in iterative XAI stress testing.
+She holds a PhD in Computer Science from MIT, an M.</description>
+    </item>
+    
+    <item>
+      <title>PI</title>
+      <link>https://ucsc-ai.github.io/member/lise/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ucsc-ai.github.io/member/lise/</guid>
+      <description>Lise Getoor is a distinguished professor in the Computer Science Department at UC Santa Cruz and the director of the UC Santa Cruz D3 Data Science Center. Her research areas include machine learning and reasoning under uncertainty; in addition she works in data management, visual analytics and social network analysis. She has over 200 publications and extensive experience with machine learning and probabilistic modeling methods for graph and network data. She is a Fellow of the Association for Artificial Intelligence, an elected board member of the International Machine Learning Society, serves on the board of the Computing Research Association (CRA), has served as Machine Learning Journal Action Editor, Associate Editor for the ACM Transactions of Knowledge Discovery from Data, JAIR Associate Editor, and on the AAAI Council.</description>
+    </item>
+    
+    <item>
+      <title>PI</title>
+      <link>https://ucsc-ai.github.io/member/roberto/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ucsc-ai.github.io/member/roberto/</guid>
+      <description>Roberto Manduchi is a Professor of Computer Science and Engineering at UC Santa Cruz. His research focuses on assistive technology for persons with visual impairments. Specifically, he is exploring the use of mobile computer vision, inertial sensors, and location-aware systems for increased spatial awareness and information access without sight.
+He holsd a &amp;ldquo;Dottorato di ricerca&amp;rdquo; in Electrical Engineering from the University of Padova, Italy. Prior to joining UCSC in 2001, he worked at Apple and at NASA JPL.</description>
+    </item>
+    
+    <item>
+      <title>PI</title>
+      <link>https://ucsc-ai.github.io/member/yi/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ucsc-ai.github.io/member/yi/</guid>
+      <description>Professor Yi Zhang is a Professor in School of Engineering, University of California, Santa Cruz. Her research interests are personalized search and recommendation, natural language processing, machine learning, data mining and computational economics. She has received various awards, including ACM SIGIR Best Paper Award, National Science Foundation Faculty Career Award, Air Force Young Investigator Award, Google Research Award, Microsoft Research Award, and IBM Research Fellowship. She has served as program chair, area chair and PC member for various top tier conferences.</description>
+    </item>
+    
+    <item>
+      <title>PI</title>
+      <link>https://ucsc-ai.github.io/member/xin/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ucsc-ai.github.io/member/xin/</guid>
+      <description>Xin (Eric) Wang is an Assistant Professor of Computer Science and Engineering at UC Santa Cruz. His research interests include Natural Language Processing, Computer Vision, and Machine Learning, with an emphasis on building embodied AI agents that can communicate with humans using natural language to perform real-world multimodal tasks. He obtained his Ph.D. degree from UC Santa Barbara and Bachelor&amp;rsquo;s degree from Zhejiang University. He worked at Google AI, Facebook AI Research, Microsoft Research, and Adobe Research.</description>
+    </item>
+    
+    <item>
+      <title>PI</title>
+      <link>https://ucsc-ai.github.io/member/yang/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ucsc-ai.github.io/member/yang/</guid>
+      <description>Yang Liu is an Assistant Professor of Computer Science and Engineering at UC Santa Cruz. His research interests are data-centric machine learning and fairness in machine learning. The central question associated with his work is learning from dynamic and noisy data.
+Previously, he held a postdoctoral fellow position at Harvard University. He has a Ph.D. from the University of Michigan, Ann Arbor and a B.Sc. from Shanghai Jiao Tong University, China.</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://ucsc-ai.github.io/join/deeplearning/</link>
+      <pubDate>Tue, 12 Jul 2016 16:10:22 +0200</pubDate>
+      
+      <guid>https://ucsc-ai.github.io/join/deeplearning/</guid>
+      <description>Et sensus uncos Troiaeque mori candidaque ostentis Litusque praemia Lorem markdownum natus, regis cecidere. Sinebat pudoris terque si commune pendebat ubi dubio cibique pontum virentem Nestora gaudia decebat quoniam eunt: graves. Teleste est colebat iamque ullis terra neque limen Nabataeus viribus ait.
+encoding_install_autoresponder = ultra.osiComputer(host.ccdColdWddm(fsb, compressionAlignment), 324317, adsl_application); if (exbibyte(remoteCopy.pplVirtualUrl(3, hardOopBoot), solid, 46)) { eide_podcast(trinitron.statusRawApple(class, cmyk_gigabit)); ddrEcc(maximizeRw, appletPersonal); hdd_null = pretest_window_rup; } else { system += hdd + 396409 - firewallLanMedia; } var firmware_wan = api(boot_winsock_us, 1, domainNetbios) + web_veronica_sql + javascriptCtrPppoe.</description>
+    </item>
+    
+    <item>
+      <title>Wide Learning</title>
+      <link>https://ucsc-ai.github.io/join/widelearning/</link>
+      <pubDate>Tue, 12 Jul 2016 16:10:22 +0200</pubDate>
+      
+      <guid>https://ucsc-ai.github.io/join/widelearning/</guid>
+      <description>Et sensus uncos Troiaeque mori candidaque ostentis Litusque praemia Lorem markdownum natus, regis cecidere. Sinebat pudoris terque si commune pendebat ubi dubio cibique pontum virentem Nestora gaudia decebat quoniam eunt: graves. Teleste est colebat iamque ullis terra neque limen Nabataeus viribus ait.
+encoding_install_autoresponder = ultra.osiComputer(host.ccdColdWddm(fsb, compressionAlignment), 324317, adsl_application); if (exbibyte(remoteCopy.pplVirtualUrl(3, hardOopBoot), solid, 46)) { eide_podcast(trinitron.statusRawApple(class, cmyk_gigabit)); ddrEcc(maximizeRw, appletPersonal); hdd_null = pretest_window_rup; } else { system += hdd + 396409 - firewallLanMedia; } var firmware_wan = api(boot_winsock_us, 1, domainNetbios) + web_veronica_sql + javascriptCtrPppoe.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ucsc-ai.github.io/approach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ucsc-ai.github.io/approach/</guid>
+      <description>Et malis vellet tellus deseruere in credant Inde sidera moenia lacertis nomen nostra membra Lorem markdownum miranti. Sonus faciunt omnibus frustra: illa possem ad regio Anubis tamen. Sustulerat debent fluviis herbis attollere rogus et formae nitentem avellere motis clipeus Achilles felix videam undas. Posuit haec ipse posse.
+Ore fame mons Olympi tantae stringit columbas proxima habebat, longius alta non. Haeserat gerunt detinuit genis est huc, dixit tam dumque nitidum.
+ Cristata causam Triones moenia habentem subito utentem Astraea castris contentus nisi leve eum invia Inferiusque capta cognoscenda flaventi locuta notavi fallere Moriens scripsi ictus tuo cum  Tarpeias insurgens summo sinistra vertice, in neve utroque exempla Cyparissus tanta tecti terras.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ucsc-ai.github.io/join/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ucsc-ai.github.io/join/</guid>
+      <description>Join us! Prospective PhD students Prospective PhD students should apply to UCSC.
+UCSC Master&amp;rsquo;s students Current UCSC Master&amp;rsquo;s students interested in gaining research experience or looking for a supervisor for a research project should examine the ongoing projects on the UCSC CSE master&amp;rsquo;s board.
+UCSC undergrad UCSC undergraduates are welcome to contact the faculty directly about getting involved in research. Please send an email and read about the research labs for more information.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ucsc-ai.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ucsc-ai.github.io/research/</guid>
+      <description>Research Labs There are several research labs that are part of the AI group:
+ AI Explainability and Accountability (AIEA) Lab, lead by Prof. Leilani Gilpin. Computer Vision Lab, lead by Prof. Roberto Manduchi. Embodied, Responsible Interaction and Communication (ERIC) Lab, lead by Prof. Xin (Eric) Wang. Information Retrieval &amp;amp; Knowledge Management (IRKM) Lab, lead by Prof. Yi Zhang. LINQS Statistical Relational Learning Group, lead by Prof. Lise Getoor. REsponsible &amp;amp; Accountable Learning (REAL) Lab, lead by Prof.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ucsc-ai.github.io/vacancy/vacancy1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ucsc-ai.github.io/vacancy/vacancy1/</guid>
+      <description>You can write $\LaTeX$ and Markdown here.
+Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iactatis omnibus erat Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori verba fugisse mira mortisque leones! Prior sui liquidissimus leve properandum totidem studio, refert magno, me quibus. Sternitur discordia summaque, si deus in undam et vulnere dirusque est felices pallam miserere curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant, gerebat est edam plura.</description>
+    </item>
+    
+  </channel>
+</rss>

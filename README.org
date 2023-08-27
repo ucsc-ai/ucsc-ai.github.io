@@ -1,0 +1,24 @@
+* AI group @ UCSC website (under construction)
+
+** From the hugo-academic-group
+
+An academic group website theme for Hugo.
+
+** Installation
+
+ 1) Install [Hugo](https://gohugo.io/)
+ 2) Clone this repo
+ 3) Run the website locally with `hugo server`
+ Open [localhost:1313](localhost:1313) and your website should appear.
+ 4) To add changes, make a pull request, along with changing the html
+    by running =hugo= and adding the =docs/= files in the PR.
+
+
+** TODO Ongoing tasks [0/6]
+- [ ] Add in PhD students
+- [ ] Change the project pictures and descriptions.
+- [ ] Add in a better contact/location information (possibly google
+  maps to the E2 building), email address, etc. 
+- [ ] Split up members into faculty page, grad student page, maybe alumni
+- [ ] Add gallery for photos from events.
+- [ ] Add homepages for faculty (maybe).

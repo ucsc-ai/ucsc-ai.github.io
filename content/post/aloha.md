@@ -1,0 +1,12 @@
++++
+date = "2023-08-27"
+short_text = "Hello world!"
+title = "Hello world!"
+draft = false
+[[authors]]
+    name = "Leilani H. Gilpn"
+    is_member = true
+    link = "/member/leilani"
++++
+Hello to friends, collaborators, and propsective students.  We've just started setting up this website and we appreciate your patience as we make changes.
+
