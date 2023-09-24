@@ -6,7 +6,7 @@
     <description>Recent content on AI @ UCSC</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; UCSC AI, 2023 </copyright>
-    <lastBuildDate>Sun, 27 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Sep 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ucsc-ai.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Hello world!</title>
       <link>https://ucsc-ai.github.io/post/aloha/</link>
-      <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://ucsc-ai.github.io/post/aloha/</guid>
       <description>Hello to friends, collaborators, and propsective students. We&amp;rsquo;ve just started setting up this website and we appreciate your patience as we make changes.</description>

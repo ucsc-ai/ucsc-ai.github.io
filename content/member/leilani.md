@@ -17,7 +17,7 @@ title = "PI"
 [[social]]
     icon = "globe"
     icon_pack = "fa"
-    link = "https://lgilpin.com"
+    link = "http://lgilpin.com"
 
 [[social]]
     icon = "twitter"
