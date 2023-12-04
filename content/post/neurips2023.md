@@ -19,6 +19,11 @@ Attending: [Prof. Wang](/member/xin/), [Prof. Gilpin](/member/leilani/), [Prof. 
 - Towards a fuller understanding of neurons with Clustered Compositional Explanations. Biagio La Rosa, Leilani Gilpin, and Roberto Capobianco. Tu, Dec 12, 08:45 -- Poster Session 1
 - An Inverse Scaling Law for CLIP Training Xianhang Li, Zeyu Wang, Cihang Xie.
 Tu, Dec 12, 08:45 -- Poster Session 1
+- Model Sparsity Can Simplify Machine Unlearning.  Jinghan Jia, Jiancheng Liu, Parikshit Ram, Yuguang Yao, Gaowen Liu, Yang Liu, PRANAY SHARMA, Sijia Liu
+Tu, Dec 12, 08:45 -- Poster Session 1
+- Long-Term Fairness with Unknown Dynamics.  Tongxin Yin, Reilly Raab, Mingyan Liu, Yang Liu.  Tu, Dec 12, 15:15 -- Poster Session 2
+- Uncertainty-Aware Instance Reweighting for Off-Policy Learning
+Xiaoying Zhang, Junpu Chen, Hongning Wang, Hong Xie, Yang Liu, John C.S. Lui, Hang Li Tu. Dec 12, 15:15 -- Poster Session 2
 
 ## Workshop: 
 - Socially Responsible Language Modelling Research Workshop: Learning Inner Monologue and Its Utilization in Vision-Language Challenges, Diji Yang · Kezhen Chen · Jinmeng Rao · Xiaoyuan Guo · Yawen Zhang · Jie Yang · Yi Zhang.
