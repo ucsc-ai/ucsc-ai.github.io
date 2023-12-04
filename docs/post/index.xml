@@ -6,10 +6,21 @@
     <description>Recent content in Posts on AI @ UCSC</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; UCSC AI, 2023 </copyright>
-    <lastBuildDate>Sun, 24 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Dec 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ucsc-ai.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>UCSC AI at NeurIps and EMNLP 2023</title>
+      <link>https://ucsc-ai.github.io/post/neurips2023/</link>
+      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ucsc-ai.github.io/post/neurips2023/</guid>
+      <description>The UCSC AI group will be at UCSC AI at NeurIps and EMNLP 2023!
+NeurIps Attending: Prof. Wang, Prof. Gilpin, Prof. Marinescu, and Prof. Zhang
+Main conference papers:  Photoswap: Personalized Subject Swapping in Images, Jing Gu, Yilin Wang, Nanxuan Zhao, Tsu-Jui Fu, Wei Xiong, Qing Liu, Zhifei Zhang, He Zhang, Jianming Zhang, HyunJoon Jung, Xin Eric Wang . Th, Dec 14, 08:45 &amp;ndash; Poster Session 5 LayoutGPT: Compositional Visual Planning and Generation with Large Language Models, Weixi Feng, Wanrong Zhu, Tsu-jui Fu, Varun Jampani, Arjun Akula, Xuehai He, Sugato Basu, Xin Eric Wang, William Yang Wang.</description>
+    </item>
     
     <item>
       <title>Hello world!</title>
