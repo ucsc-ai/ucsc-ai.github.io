@@ -10,7 +10,7 @@ draft = false
 +++
 The UCSC AI Group will be at NeurIPS and EMNLP 2023!
 
-# NeurIps
+# NeurIPS
 Attending: [Prof. Wang](/member/xin/), [Prof. Gilpin](/member/leilani/), [Prof. Marinescu](/member/razvan/), [Prof. Zhang](/member/yi/), [Prof. Xie](https://cihangxie.github.io), and [Prof. Zhou](https://yuyinzhou.github.io).
 ## Main conference:
 - [Photoswap: Personalized Subject Swapping in Images](https://photoswap.github.io). Jing Gu, Yilin Wang, Nanxuan Zhao, Tsu-Jui Fu, Wei Xiong, Qing Liu, Zhifei Zhang, He Zhang, Jianming Zhang, HyunJoon Jung, Xin Eric Wang . Th, Dec 14, 08:45 -- Poster Session 5
