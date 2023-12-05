@@ -31,19 +31,19 @@ title = "PI"
     
 
 [[education]]
-    course = "PhD in Electrial Engineering and Computer Science"
+    course = "PhD in Computer Science"
     institution = "UC Santa Barbara"
     year = 2020
 [[education]]
     course = "BS in Computer Science"
     institution = "Zhejiang University"
-    year = 2011
+    year = 2015
     
 [[organizations]]
     name = "UC Santa Cruz"
     role = "Assistant Professor"
 
 +++
-Xin (Eric) Wang is an Assistant Professor of Computer Science and Engineering at UC Santa Cruz. His research interests include Natural Language Processing, Computer Vision, and Machine Learning, with an emphasis on building embodied AI agents that can communicate with humans using natural language to perform real-world multimodal tasks. He obtained his Ph.D. degree from UC Santa Barbara and Bachelor's degree from Zhejiang University. He worked at Google AI, Facebook AI Research, Microsoft Research, and Adobe Research.
-Xin has served as Area Chair for conferences such as ACL, NAACL, EMNLP, ICLR, and NeurIPS, as well as a Senior Program Committee for AAAI and IJCAI. He organized workshops and tutorials at conferences such as ACL, NAACL, CVPR, and ICCV. He has received several awards and recognitions for his work, including the CVPR Best Student Paper Award (2019) and a Google Research Faculty Award (2022), as well as three Amazon Alexa Prize Awards (2022-2023).
+Xin (Eric) Wang is an Assistant Professor of Computer Science and Engineering at UC Santa Cruz. His research interests include Natural Language Processing, Computer Vision, and Machine Learning, with an emphasis on Multimodal and Embodied AI. He obtained his Ph.D. degree from UC Santa Barbara and Bachelor's degree from Zhejiang University. He worked at Google AI, Facebook AI Research, Microsoft Research, and Adobe Research.
+Xin has served as Area Chair for conferences such as ACL, NAACL, EMNLP, ICLR, and NeurIPS, as well as a Senior Program Committee for AAAI and IJCAI. He organized workshops and tutorials at conferences such as ACL, NAACL, CVPR, and ICCV. He has received several awards and recognitions for his work, including CVPR Best Student Paper Award，Google Research Faculty Award, and Amazon Alexa Prize Awards, as well as faculty gift awards from eBay, Snap, Adobe, etc.
 
