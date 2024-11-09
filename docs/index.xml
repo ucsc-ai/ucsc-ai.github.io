@@ -6,10 +6,20 @@
     <description>Recent content on AI @ UCSC</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; UCSC AI, 2023 </copyright>
-    <lastBuildDate>Sun, 03 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ucsc-ai.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>UCSC AI Research Symposium</title>
+      <link>https://ucsc-ai.github.io/post/ai-research-2024/</link>
+      <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ucsc-ai.github.io/post/ai-research-2024/</guid>
+      <description>Professor Yi Zhang and PhD student Diji Yang co-organized the first annual UCSC AI Research symposium. The symposium included oral presentations, a PhD panel, and a poster session. More information about the symposium is available here.
+The event was sponsored by Professor Lise Getoor.</description>
+    </item>
     
     <item>
       <title>UCSC AI at NeurIPS and EMNLP 2023</title>
